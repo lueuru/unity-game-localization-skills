@@ -134,6 +134,13 @@ unity-game-localization-skills/
 - 非 Unity 引擎（那看 Android 原生那套技能）
 - IL2CPP 打包的游戏（`Assembly-CSharp.dll` 不存在，走的是 `global-metadata.dat`，路径完全不同）
 
+## 相关仓库
+
+同一系列的其他技能包（各自独立，可单独使用）：
+
+- **[android-apk-reverse-skills](https://github.com/lueuru/android-apk-reverse-skills)** —— Android APK 原地改造 —— dex 字符串等长替换、渠道 SDK 剥离、模拟器自动化验证
+- **[agent-engineering-skills](https://github.com/lueuru/agent-engineering-skills)** —— AI Agent 工程实践 —— 验收判据防假通过、仓库主页美化、Windows 清理审计、DSH 排障与会话复盘
+
 ## 许可证
 
 [MIT](./LICENSE) —— 自由使用、修改、再分发，保留版权声明即可。
